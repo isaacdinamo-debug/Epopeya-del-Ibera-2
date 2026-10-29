@@ -148,7 +148,7 @@ Un paso breve de tiempo permite ver que el seguimiento continúa. La familia vue
 
 **Resolución:** Lobito ya no necesita ser el primero ni el más admirado para tener un lugar. Menchito ha aprendido que asumir una responsabilidad incluye corregir lo que dijo.
 
-## Pasos antes del guion dialogado
+## Comprobaciones de desarrollo
 
 1. **Lectura de mesa:** comprobar si los objetivos de Lobito, Menchito y la adulta se entienden sin voz explicativa; medir el ritmo real de los siete bloques de cada capítulo.
 2. **Continuidad audiovisual:** revisar los tres episodios animados finales para ajustar la relación entre niños y animales, las voces existentes y el uso del narrador. La adaptación musical no resuelve por sí sola esas reglas.
@@ -156,4 +156,4 @@ Un paso breve de tiempo permite ver que el seguimiento continúa. La familia vue
 4. **Geografía de escena:** dibujar un mapa simple con la curva de presentación, el embarcadero, la ensenada, el paso estrecho y la bifurcación. El espectador debe poder seguir qué sabe cada personaje y por qué el cambio de circulación importa.
 5. **Piezas sociales:** probar las dieciocho selecciones de la escaleta sobre la animática. Los cortes indicados son oportunidades de montaje; algunos necesitarán una entrada o salida fuera de la unidad de acción para sostenerse solos.
 
-**Siguiente entrega creativa:** guion dialogado del capítulo 1, seguido de una lectura de duración y una revisión de las voces antes de escribir los capítulos 2 y 3.
+**Estado actual:** los tres guiones dialogados ya están escritos. La [revisión conjunta](REVISION_GUIONES_3X8.md) registra continuidad y duración estimada sobre el papel. La siguiente comprobación necesaria es una lectura cronometrada con acciones, seguida de un mapa de geografía y una animática para probar ritmo y cortes sociales.

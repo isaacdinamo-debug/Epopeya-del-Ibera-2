@@ -4,7 +4,7 @@
 
 ## ESCENA 1. EXT. PASO ESTRECHO — MAÑANA · 0:00–0:55
 
-El «camino secreto» desemboca en un paso angosto entre raíces y vegetación. LOBITO se desliza por él y aparece al otro lado con una reverencia. Espera a la familia. La CRÍA CURIOSA se acerca, pero la NUTRIA ADULTA la llama antes de que intente entrar. Las dos adultas observan la anchura, la salida y el recorrido de las crías. Eligen bordear la orilla por un acceso abierto.
+A la mañana siguiente, el «camino secreto» desemboca en un paso angosto entre raíces y vegetación. LOBITO se desliza por él y aparece al otro lado con una reverencia. Espera a la familia. La CRÍA CURIOSA se acerca, pero la NUTRIA ADULTA la llama antes de que intente entrar. Las dos adultas observan la anchura, la salida y el recorrido de las crías. Eligen bordear la orilla por un acceso abierto.
 
 **LOBITO:** ¡Llegué! El que conoce el paso no da ni una vuelta de más.
 
@@ -68,7 +68,7 @@ Se alejan por la ruta elegida. Lobito duda entre quedarse para demostrar que ten
 
 ## ESCENA 4. EXT. SECTOR DE LOS PECES — DÍA · 3:25–4:35
 
-DON DORADO asoma con varios peces. El paso se ha agitado por los idas y vueltas de Lobito y por otros animales curiosos que lo siguieron. La familia se mantiene reunida a distancia.
+DON DORADO asoma con varios peces. El paso se ha agitado por las idas y vueltas de Lobito y por otros animales curiosos que lo siguieron. La familia se mantiene reunida a distancia.
 
 **DORADO:** Primero una ensenada llena de gente. Ahora este paso lleno de público. Mis peces no saben qué orilla evitar.
 
